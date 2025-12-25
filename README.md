@@ -22,6 +22,3 @@ BridgeLabz-Training/
 - Learned basic Git commands (`init`, `clone`, `add`, `commit`, `push`).
 - Successfully pushed files to the remote repository.
 ---
-🔗**Code Link:**  
-👉 [Day 2 – Basic Java Programs](https://github.com/username/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-prequisites)
-
