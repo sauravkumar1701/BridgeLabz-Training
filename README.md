@@ -3,7 +3,7 @@
 **(Date: 16-Dec-2025)**
 
 - Installed and configured Git.
-- Set up GitHub repository.
+- Set up GitHub repository..
 ```
 BridgeLabz-Training/
 │── core-java-practice/
