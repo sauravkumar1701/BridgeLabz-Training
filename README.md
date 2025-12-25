@@ -1,4 +1,4 @@
-# 📅 Week 1: Git, GitHub & Java Programming Fundamentals
+## 📅 Week 1: Git, GitHub & Java Programming Fundamentals
 
 ### 📅 Day 1 – Git & GitHub Setup  
 **(Date: 16-Dec-2025)**
@@ -22,3 +22,5 @@ BridgeLabz-Training/
 ```
 - Learned basic Git commands (`init`, `clone`, `add`, `commit`, `push`).
 - Successfully pushed files to the remote repository.
+🔗 **Code Link:**  
+👉 [Day 2 – Basic Java Programs](https://github.com/username/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-prequisites)
