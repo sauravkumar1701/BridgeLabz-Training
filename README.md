@@ -25,3 +25,4 @@ BridgeLabz-Training/
 - 
 🔗**Code Link:**  
 👉 [Day 2 – Basic Java Programs](https://github.com/username/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-prequisites)
+---
